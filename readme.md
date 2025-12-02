@@ -16,6 +16,8 @@ A aplicação possui um tema escuro, fontes legíveis e botões coloridos para d
 
 ![Screenshot da Calculadora](./screenshot.png "Interface da Calculadora")
 
+![Gif da Calculadora](./action_gif.gif "Calculadora em ação")
+
 ---
 
 ## 🚀 Funcionalidades
