@@ -14,8 +14,6 @@ A calculadora foi construída do zero, com foco em boas práticas de programaç�
 
 A aplicação possui um tema escuro, fontes legíveis e botões coloridos para diferenciar números, operadores e funções especiais.
 
-*(Dica: Substitua a imagem abaixo por uma captura de tela da sua calculadora em execução!)*
-
 ![Screenshot da Calculadora](./screenshot.png "Interface da Calculadora")
 
 ---
