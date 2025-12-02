@@ -89,7 +89,7 @@ Siga os passos abaixo para executar a calculadora em seu ambiente local.
 
 ---
 
-## � Gerando um Executável (.exe)
+## 📦 Gerando um Executável (.exe)
 
 Para facilitar a distribuição e permitir que usuários executem a calculadora sem precisar ter o Python instalado, você pode gerar um arquivo executável `.exe`. Para isso, usaremos a biblioteca `PyInstaller`.
 
