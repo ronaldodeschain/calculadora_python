@@ -1,6 +1,7 @@
 import tkinter as tk
 import math
 from tkinter import font
+
 class Calculator(tk.Tk):
     def __init__(self):
         super().__init__()
