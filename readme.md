@@ -16,7 +16,7 @@ A aplicação possui um tema escuro, fontes legíveis e botões coloridos para d
 
 *(Dica: Substitua a imagem abaixo por uma captura de tela da sua calculadora em execução!)*
 
-![Screenshot da Calculadora](https://i.imgur.com/placeholder.png "Interface da Calculadora")
+![Screenshot da Calculadora](./screenshot.png "Interface da Calculadora")
 
 ---
 
@@ -72,12 +72,12 @@ Siga os passos abaixo para executar a calculadora em seu ambiente local.
 
 1.  **Clone o repositório** (ou baixe os arquivos para uma pasta em seu computador):
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/ronaldodeschain/calculadora_python.git
     ```
 
 2.  **Navegue até o diretório do projeto**:
     ```bash
-    cd nome-do-repositorio
+    cd calculadora_python
     ```
 
 3.  **Execute o script Python**:
